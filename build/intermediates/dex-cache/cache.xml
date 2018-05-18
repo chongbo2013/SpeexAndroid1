@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\speex\SpeexAndroid1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\27.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="3304d33470ff64cf83bce9189ff3648a42eb2aa7">
+        <dex dex="D:\speex\SpeexAndroid1\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-27.1.1_3a050aafbb054c336885d05dab8be2e352f2f2cc.jar" />
+    </item>
+    <item
+        jar="D:\speex\SpeexAndroid1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\27.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="874f1143c11f5d38533efe512bf913e3e847e7df">
+        <dex dex="D:\speex\SpeexAndroid1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-27.1.1_49bbb939725f94bc551a1a0ef493c02720a7a2f6.jar" />
+    </item>
+    <item
+        jar="D:\speex\SpeexAndroid1\app\build\intermediates\exploded-aar\android.arch.lifecycle\viewmodel\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="D:\speex\SpeexAndroid1\app\build\intermediates\pre-dexed\debug\android.arch.lifecycle-viewmodel-1.1.0_ceb85ad2cc8a4c1e09c6cebdeddd5c06e535a836.jar" />
+    </item>
+    <item
+        jar="C:\Users\x002\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.1.0\edf3f7bfb84a7521d0599efa3b0113a0ee90f85\common-1.1.0.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="D:\speex\SpeexAndroid1\app\build\intermediates\pre-dexed\debug\common-1.1.0_58e3af320e5cd380a50bfbe136ab29ddbbd6a503.jar" />
+    </item>
+    <item
+        jar="D:\speex\SpeexAndroid1\app\build\intermediates\exploded-aar\com.android.support\support-compat\27.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="23dcb4803d3103bde3f3f5db978a726338fe49ae">
+        <dex dex="D:\speex\SpeexAndroid1\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-27.1.1_88471d75f7c2724c744d6c5333344c7ab95a489e.jar" />
+    </item>
+    <item
+        jar="C:\Users\x002\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.1.1\39ded76b5e1ce1c5b2688e1d25cdc20ecee32007\support-annotations-27.1.1.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="D:\speex\SpeexAndroid1\app\build\intermediates\pre-dexed\debug\support-annotations-27.1.1_2a9b78373e37e91270e8aa8cc98b0462a22c0cd4.jar" />
+    </item>
+    <item
+        jar="D:\speex\SpeexAndroid1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\27.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="ec657bb192b20229696216bf233779b16bf75a54">
+        <dex dex="D:\speex\SpeexAndroid1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-27.1.1_2264f5bcdd20375e0df8da38a6c950b82cca5d40.jar" />
+    </item>
+    <item
+        jar="C:\Users\x002\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.1.0\8007981f7d7540d89cd18471b8e5dcd2b4f99167\common-1.1.0.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="D:\speex\SpeexAndroid1\app\build\intermediates\pre-dexed\debug\common-1.1.0_490fae694c70fba8695ceb3b58b533f70d179635.jar" />
+    </item>
+    <item
+        jar="D:\speex\SpeexAndroid1\app\build\intermediates\exploded-aar\android.arch.lifecycle\livedata-core\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="D:\speex\SpeexAndroid1\app\build\intermediates\pre-dexed\debug\android.arch.lifecycle-livedata-core-1.1.0_0fb2abd71572e8d4b711f73d6b8702326183c14f.jar" />
+    </item>
+    <item
+        jar="D:\speex\SpeexAndroid1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\27.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="88c68e5ef7c5ace393d014c9ec5fe736b1ca55cf">
+        <dex dex="D:\speex\SpeexAndroid1\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-27.1.1_e6d3aa8e59047f70d447a8faab17ec53afa26a45.jar" />
+    </item>
+    <item
+        jar="D:\speex\SpeexAndroid1\app\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="D:\speex\SpeexAndroid1\app\build\intermediates\pre-dexed\debug\android.arch.lifecycle-runtime-1.1.0_5252f7917e23d7ff5e1ea9043f4b1da8d681da8d.jar" />
+    </item>
+    <item
+        jar="D:\speex\SpeexAndroid1\app\build\intermediates\exploded-aar\android.arch.core\runtime\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="D:\speex\SpeexAndroid1\app\build\intermediates\pre-dexed\debug\android.arch.core-runtime-1.1.0_e0d1531becc87cfec535f000911e860c69c3d44b.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\speex\\SpeexAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "D:\\speex\\SpeexAndroid1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\27.1.1\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\speex\\SpeexAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "D:\\speex\\SpeexAndroid1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\27.1.1\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\speex\\SpeexAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ico_taxing_record_2.png",
+        "source": "D:\\speex\\SpeexAndroid1\\app\\src\\main\\res\\drawable-hdpi\\ico_taxing_record_2.png"
+    },
+    {
+        "merged": "D:\\speex\\SpeexAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ico_taxing_record.png",
+        "source": "D:\\speex\\SpeexAndroid1\\app\\src\\main\\res\\drawable-hdpi\\ico_taxing_record.png"
+    },
+    {
+        "merged": "D:\\speex\\SpeexAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\speex\\SpeexAndroid1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\speex\\SpeexAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ico_taxing_record_0.png",
+        "source": "D:\\speex\\SpeexAndroid1\\app\\src\\main\\res\\drawable-hdpi\\ico_taxing_record_0.png"
+    },
+    {
+        "merged": "D:\\speex\\SpeexAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ico_taxing_record_3.png",
+        "source": "D:\\speex\\SpeexAndroid1\\app\\src\\main\\res\\drawable-hdpi\\ico_taxing_record_3.png"
+    },
+    {
+        "merged": "D:\\speex\\SpeexAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "D:\\speex\\SpeexAndroid1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\27.1.1\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\speex\\SpeexAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "D:\\speex\\SpeexAndroid1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\27.1.1\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\speex\\SpeexAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ico_taxing_record_1.png",
+        "source": "D:\\speex\\SpeexAndroid1\\app\\src\\main\\res\\drawable-hdpi\\ico_taxing_record_1.png"
+    },
+    {
+        "merged": "D:\\speex\\SpeexAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "D:\\speex\\SpeexAndroid1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\27.1.1\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    }
+]
